@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 657 369" style="enable-background:new 0 0 657 369;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="magShape">
+	<circle class="st0" cx="180" cy="180" r="108"/>
+	
+		<ellipse id="mag_circle" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -62.043 145.2646)" class="st0" cx="144.3" cy="147.5" rx="34.7" ry="34.7"/>
+	<path id="stick" class="st0" d="M240.4,229.7c3.9,3.9,3.8,10.2-0.1,14.1l0,0c-3.9,3.9-10.2,3.9-14.1,0.1l-62.7-62.7
+		c-4.2-4.2,3.3-3.3,7.2-7.2l0,0c3.9-3.9,2.7-11.2,7-7L240.4,229.7z"/>
+</g>
+<g id="details">
+	<path id="mag_detail" class="st0" d="M128.8,163c-8.6-8.6-8.6-22.5,0-31"/>
+	<path id="stick_detal" class="st0" d="M177.7,195.2l-14.1-14.1c-4.2-4.2,3.3-3.3,7.2-7.2l0,0c3.9-3.9,2.7-11.2,7-7l14.1,14.1
+		L177.7,195.2z"/>
+</g>
+</svg>
